@@ -16,3 +16,9 @@ background-color: lightcoral;
 h2.paint{
 background-color: skyblue;
 }
+
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
